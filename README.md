@@ -1,13 +1,5 @@
 # Iznajmljivanje vozila
 
-## Projektni tim
-
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime | Seminarska grupa
-------------  | ------------------- | ----- | --------------------- | ----------------
-Luka Pamer | lpamer20@foi.hr | 0016149215 | lpamer20 | G1.2
-Matej Franjić | mfranjic21@foi.hr | 0016154467 | mfranjic21 | G1.2
-Marko Saško | msasko1@foi.hr | 0016142095 | msasko1 | G1.2
-
 ## Opis domene
 Ovim projektom bi radili na izradi mobilne aplikacije za iznajmljivanje vozila koja bi pokrila funkcionalnosti od prijavljivavnja korisnika sve do ispisa samo računa i ispisa istog.
 
